@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="393px" height="78px" viewBox="0 0 393 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="391.854662" height="77.426217" rx="5.44833769"></rect>
+        <pattern id="pattern-2" width="46.1096814" height="46.1096814" x="-46.1096814" y="-46.1096814" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-3" transform="scale(1.0479473,1.0479473)"></use>
+        </pattern>
+        <image id="image-3" width="44" height="44" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAAAXNSR0IArs4c6QAAAxlJREFUWAntl7GtG0EMRC2lvwk3YUCZUoVuwt2oA7egApQqkgA38QMVYryTZ8Eb8Pj34D0DBv4GWpE7O+TxOBS0u1wuPw6Hw88vH6zH49GFE00vvhcn3j3J3u/373JkO+d6qPP5/JZh5NP5Vry75/M5xbrdbt+Ox+MvBdae+a/X69fT6fQujPbMn90Hn/mz+2Cjf4+DRbIcTMafD+zsIUiWgBGLnT3EaN6WMMEJqFfKniWgJElErcSePZiwI3lbS4h87b5WNL38S7yzCkMWK/wRucSoSlf4UbyzCsfmJrjbMSEXjdsR6zxuR6zzuN0qzIH3LDb+SMh3AnrPZuICO5p3SrgSTRQXCVRijOICuwXv7n/7pZv1MFWp1pJy/U4vTvd68eCmlpCCReC7zrf6uV3D2yq8pNzM78rVA2b+7D74zJ/dBxv9bUpkEwGgTw4IsolAAj45wI7mbQkrEf0IVApXImqVanKM5m0tAbFWrwiE791H8M4qTGAq2yMCsLHC2NUaxTurcGxugrsdE3LRuB2xzuN2xDqP263CHLhoMnFBTkAXYyYusKN5p4Qr0ZCIXj0JVGLkATkHx9qCd9YSrzDLn72i6cUpUi8e3J4PXaz2XlI4EO1WvJ//ml2MSxMh8/tE0BuP/jYlsomQKRySbCJkkwPsaN6WsBLRRKgUrkQ0EarJMZp31ZQguK81YvS7lb3EO6swBLHCFSFnVPZf/4zPKhybm4TcxqflonFbOHbncTtincftVmEOXOGZuJQAYoqBMnFxPpp3SrgSDYlIXCRQiZEHVEuB3YL3818zlV1SOGfZ6sWDm1oivsaMUOc9E0GTAx7dyzjj+RreNiWWlJv5XblKKPNn98Fn/uw+2OhvUyKbCAB9ckCQTQQS8MkBdjRvS1iJaCJUClcieuXs2YOBY8VJ87e8rSVe1K/PXhHEOz3fR/DOKkxQiUaVrhKJFa5wI3lnFY7NTRC3Y1IuGrcj1nncjljncbtVmAMXTSYuyAnoPZuJC+xo3inhSjQkoldPApVoorjAbsE7awmCVKtXNL04xerFg/sNDV1ggrFvWekAAAAASUVORK5CYII="></image>
+        <linearGradient x1="68.6590267%" y1="50%" x2="0%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-6" x="0" y="0" width="391.854662" height="77.426217" rx="5.44833769"></rect>
+    </defs>
+    <g id="Home-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-12.000000, -1160.000000)">
+        <g id="List_home" transform="translate(4.000000, 91.000000)">
+            <g id="month-report" transform="translate(8.172507, 1069.054781)">
+                <g id="Rectangle-9">
+                    <g id="Group-3">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask-Copy-2" fill="url(#pattern-2)" style="mix-blend-mode: luminosity;" xlink:href="#path-1"></use>
+                        <mask id="mask-7" fill="white">
+                            <use xlink:href="#path-6"></use>
+                        </mask>
+                        <use id="Mask-Copy-4" fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

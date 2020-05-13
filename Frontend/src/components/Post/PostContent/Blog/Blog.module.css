@@ -1,0 +1,46 @@
+.container {
+	margin-top: -16px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.textcontainer {
+	flex-direction: row;
+	align-self: flex-start;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+.textheader {
+	font-family: Circular;
+ 	font-size: 26px;
+  	letter-spacing: 0.6px;
+  	text-align: left;
+  	color: #2c2c2c;
+}
+
+.textsub {
+	font-size: 20px;
+  	color: #666262;
+}
+
+.text {
+	margin: 10px 25px;
+	font-family: Circular;
+	font-size: 20px;
+	letter-spacing: 0.4px;
+	color: #575555;
+	font-family: "Avenir"
+}
+
+.header {
+	display: flex;
+	padding: 15px 15px;
+}
+
+.profile_image {
+	height: 260px;
+	width: 597px;
+	align-self: center;
+}

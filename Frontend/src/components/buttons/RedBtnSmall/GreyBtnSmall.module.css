@@ -1,0 +1,17 @@
+.button {
+	border-radius: 100px;
+	background-color: #ffd3d3;
+	color: #0067ff;
+	font-size: 14px;
+	font-weight: 500;
+	letter-spacing: 0.2px;
+	font-family: Circular;
+	position: relative;
+	border: 1px solid transparent;
+	padding: 5px 14px 3px;
+	margin-right: 10px;
+}
+
+.button:hover {
+	background-color: #ffdbed;
+}

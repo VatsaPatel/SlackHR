@@ -1,0 +1,68 @@
+.container {
+	display: flex;
+	margin: 8px 3px;
+	flex-direction: column;
+	align-items: center;
+	padding: 2px 10px;
+	border-radius: 9px;
+	border: 0px solid transparent;
+	background-color: transparent;
+}
+
+.container:hover {
+	background-color: whitesmoke;
+}
+
+.container_active {
+	display: flex;
+	margin: 8px 3px;
+	flex-direction: column;
+	align-items: center;
+	padding: 2px 10px;
+	border-radius: 9px;
+	background-image: linear-gradient(342deg, #6323ea, #2523ec);
+	box-shadow: 0 7px 40px -6px #2d1fe8;
+	border: 0px solid transparent;
+	background-color: transparent;
+}
+
+.day {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-family: Avenir;
+	font-size: 14.3px;
+	letter-spacing: 1.3px;
+	text-align: center;
+	color: #78777e;
+}
+
+.day_active {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-family: Avenir;
+	font-size: 14.3px;
+	font-weight: 100;
+	letter-spacing: 1.3px;
+	text-align: center;
+	color: #ffffff;
+}
+
+.date {
+	margin: 5px 8px 0;
+	font-family: Avenir;
+	font-weight: 500;
+	font-size: 16.9px;
+	text-align: center;
+	color: #1d1d26;
+	letter-spacing: 0.3px;
+}
+
+.date_active {
+	margin: 5px 8px 0;
+	letter-spacing: 0.3px;
+	font-family: Avenir;
+	font-size: 16.9px;
+	font-weight: 500;
+	text-align: center;
+	color: #ffffff;
+}

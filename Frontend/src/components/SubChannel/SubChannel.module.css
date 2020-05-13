@@ -1,0 +1,11 @@
+.container {
+	display: flex;
+}
+
+.header {
+	font-family: Circular;
+	font-size: 16px;
+	letter-spacing: 0.6px;
+	text-align: left;
+	color: #2c4edf;
+}

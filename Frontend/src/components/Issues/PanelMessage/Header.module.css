@@ -1,0 +1,110 @@
+.header {
+	display: flex;
+	padding: 15px 30px 0 30px;
+}
+
+
+.MessagePanel {
+  width: 739px;
+  border-radius: 22px;
+  box-shadow: 0 2px 70px 0 rgba(125, 125, 125, 0.1);
+  background-color: #ffffff;
+	margin-top: 28px;
+}
+
+.PanelHeader {
+  display: flex;
+  justify-content: space-between;
+  padding: 14px 20px;
+}
+
+.PanelFont {
+  font-family: Circular;
+    font-size: 26px;
+    letter-spacing: 0.67px;
+    color: #606060;
+}
+
+.date {
+ font-family: Circular;
+ font-size: 17px;
+ letter-spacing: 0.26px;
+ color: #1e1e1e;
+}
+
+
+.msg{
+	display: flex;
+	padding: 7px 15px 18px 98px;
+	flex-direction: column;
+}
+
+.msgtext {
+  font-family: Circular;
+  font-size: 19px;
+  letter-spacing: 0.11px;
+  color: #141414;
+}
+
+.btns {
+	flex-direction: row;
+	margin-top: 18px;
+}
+
+.profile_image {
+	height: 48px;
+	border-radius: 15px;
+	margin-right: 20px;
+	align-self: center;
+}
+
+.actionStyle {
+	font-family: Circular;
+	position: relative;
+	font-size: 20px;
+  line-height: 24px;
+	letter-spacing: 0.6px;
+	align-self: center;
+	color: #5e5b5b;
+}
+
+.profileNameStyle {
+	font-family: Circular;
+	letter-spacing: 0.29px;
+	color: #1e1e1e;
+}
+
+.channelNameStyle {
+	font-family: Circular;
+	font-size: 20px;
+  font-weight: 500;
+	letter-spacing: 0.6px;
+	text-align: left;
+	color: #12169f;
+}
+
+.rightContainer {
+	align-self: center;
+	display: flex;
+	margin-left: auto;
+	margin-right: 13px;
+}
+
+.timeStyle {
+	font-family: Gilroy;
+  font-size: 15px;
+  letter-spacing: 0.4px;
+  color: #6b6969;
+	margin-right: 8px;
+	margin-top: 1px;
+}
+
+.threeDots {
+	height: 20px;
+}
+
+.Line {
+  align-self: center;
+  border: solid 1px rgba(151, 151, 151, 0.2);
+	margin: 5px 30px;
+}

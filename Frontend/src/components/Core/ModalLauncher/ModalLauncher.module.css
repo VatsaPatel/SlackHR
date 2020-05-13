@@ -1,0 +1,15 @@
+.modalButton {
+  font-family: Circular;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0.6px;
+  padding: 0 30px;
+  color: #ffffff;
+  text-align: center;
+  border: none;
+  background-color: transparent;
+
+  &:hover: {
+    
+  }
+}

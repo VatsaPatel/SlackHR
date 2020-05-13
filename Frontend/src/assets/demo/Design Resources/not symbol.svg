@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="375.03829%" y2="131.499119%" id="linearGradient-1">
+            <stop stop-color="#38F9D7" offset="0%"></stop>
+            <stop stop-color="#43E97B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-1168.30072%" y1="-92.4533889%" x2="2403.69419%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#38F9D7" offset="0%"></stop>
+            <stop stop-color="#43E97B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="iPhone-7-Plus-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-139.000000, -145.000000)">
+        <g id="Folders-Copy-4" transform="translate(11.000000, 83.000000)">
+            <g id="Data-Structure">
+                <g id="content" transform="translate(15.000000, 3.000000)">
+                    <g id="Group-8" transform="translate(114.100000, 53.500000)">
+                        <g id="Group-5" transform="translate(0.000000, 4.000000)">
+                            <ellipse id="Oval-2" stroke="url(#linearGradient-1)" stroke-width="0.9009" cx="8.3655" cy="11.16936" rx="8.3655" ry="8.432424"></ellipse>
+                            <text id="!" fill="url(#linearGradient-2)" font-family="HKNova-Medium, HK Nova" font-size="11.7117" font-weight="400" letter-spacing="-0.0270270009">
+                                <tspan x="6.5065" y="14.36036">!</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

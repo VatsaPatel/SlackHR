@@ -1,0 +1,84 @@
+.container {
+  margin: 43px 136px;
+}
+
+.cardContaner {
+  display: flex;
+}
+
+.PanelContaner {
+  margin-top: 44px;
+  display: flex;
+}
+
+.MessagePanel {
+  width: 739px;
+  height: 641px;
+  overflow: hidden;
+  border-radius: 22px;
+  box-shadow: 0 2px 70px 0 rgba(125, 125, 125, 0.1);
+  background-color: #ffffff;
+  margin-right: 51px;
+}
+.TotalMessagesCard
+{
+  display: flex;
+  flex-direction: column;
+  margin-right: 51px;
+  padding: 12px 21px;
+  width: 234px;
+  height: 136px;
+  border-radius: 20px;
+  box-shadow: 0 2px 70px 0 rgba(125, 125, 125, 0.14);
+  background-image: linear-gradient(232deg, #ac32e4, #7918f2 48%, #4801ff);
+}
+
+.Card1{
+  background-image: linear-gradient(232deg, #ac32e4, #7918f2 48%, #4801ff);
+}
+
+.Card2{
+  background-image: linear-gradient(67deg, #fe5196 4%, #f77062 100%);
+}
+
+.Card3{
+  background-image: linear-gradient(53deg, #d39b4e, #ffe369);
+}
+
+.Card4{
+   background-image: linear-gradient(59deg, #009efd -63%, #2af598 127%);
+}
+
+.CardFont {
+  font-family: Circular;
+  font-size: 17px;
+
+  letter-spacing: 0.8px;
+  color: #ffffff;
+}
+
+.CardNumber {
+  font-family: Gilroy;
+ font-size: 41px;
+ letter-spacing: 0.24px;
+ color: #ffffff;
+ margin-top: 38px;
+}
+
+.PanelHeader {
+  display: flex;
+  justify-content: space-between;
+  padding: 14px 20px;
+}
+
+.PanelFont {
+  font-family: Circular;
+    font-size: 26px;
+    letter-spacing: 0.67px;
+    color: #606060;
+}
+
+.viewAllBtn {
+  padding: 6px 26px;
+  font-size: 15.2px;
+}

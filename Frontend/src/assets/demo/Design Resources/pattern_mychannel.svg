@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="390px" height="91px" viewBox="0 0 390 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <pattern id="pattern-1" width="35.4264706" height="35.4264706" x="-34.9225643" y="-35.4264706" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-2" transform="scale(0.805147059,0.805147059)"></use>
+        </pattern>
+        <image id="image-2" width="44" height="44" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAAAAXNSR0IArs4c6QAAAxlJREFUWAntl7GtG0EMRC2lvwk3YUCZUoVuwt2oA7egApQqkgA38QMVYryTZ8Eb8Pj34D0DBv4GWpE7O+TxOBS0u1wuPw6Hw88vH6zH49GFE00vvhcn3j3J3u/373JkO+d6qPP5/JZh5NP5Vry75/M5xbrdbt+Ox+MvBdae+a/X69fT6fQujPbMn90Hn/mz+2Cjf4+DRbIcTMafD+zsIUiWgBGLnT3EaN6WMMEJqFfKniWgJElErcSePZiwI3lbS4h87b5WNL38S7yzCkMWK/wRucSoSlf4UbyzCsfmJrjbMSEXjdsR6zxuR6zzuN0qzIH3LDb+SMh3AnrPZuICO5p3SrgSTRQXCVRijOICuwXv7n/7pZv1MFWp1pJy/U4vTvd68eCmlpCCReC7zrf6uV3D2yq8pNzM78rVA2b+7D74zJ/dBxv9bUpkEwGgTw4IsolAAj45wI7mbQkrEf0IVApXImqVanKM5m0tAbFWrwiE791H8M4qTGAq2yMCsLHC2NUaxTurcGxugrsdE3LRuB2xzuN2xDqP263CHLhoMnFBTkAXYyYusKN5p4Qr0ZCIXj0JVGLkATkHx9qCd9YSrzDLn72i6cUpUi8e3J4PXaz2XlI4EO1WvJ//ml2MSxMh8/tE0BuP/jYlsomQKRySbCJkkwPsaN6WsBLRRKgUrkQ0EarJMZp31ZQguK81YvS7lb3EO6swBLHCFSFnVPZf/4zPKhybm4TcxqflonFbOHbncTtincftVmEOXOGZuJQAYoqBMnFxPpp3SrgSDYlIXCRQiZEHVEuB3YL3818zlV1SOGfZ6sWDm1oivsaMUOc9E0GTAx7dyzjj+RreNiWWlJv5XblKKPNn98Fn/uw+2OhvUyKbCAB9ckCQTQQS8MkBdjRvS1iJaCJUClcieuXs2YOBY8VJ87e8rSVe1K/PXhHEOz3fR/DOKkxQiUaVrhKJFa5wI3lnFY7NTRC3Y1IuGrcj1nncjljncbtVmAMXTSYuyAnoPZuJC+xo3inhSjQkoldPApVoorjAbsE7awmCVKtXNL04xerFg/sNDV1ggrFvWekAAAAASUVORK5CYII="></image>
+        <linearGradient x1="42.5864081%" y1="31.3664857%" x2="108.64282%" y2="125.040328%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="iPhone-7-Plus-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-11.000000, -83.000000)">
+        <g id="Folders-Copy-4" transform="translate(11.000000, 83.000000)">
+            <g id="Data-Structure">
+                <g id="Group-4">
+                    <rect id="Rectangle-Copy" fill="url(#pattern-1)" x="0.50390625" y="0" width="388.328125" height="90.8613106" rx="9.36"></rect>
+                    <rect id="Rectangle-Copy-2" fill="url(#linearGradient-3)" x="1" y="0" width="388.328125" height="90.8613106" rx="9.36"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

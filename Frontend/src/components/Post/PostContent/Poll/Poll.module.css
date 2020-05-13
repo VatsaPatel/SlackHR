@@ -1,0 +1,23 @@
+.container {
+	border-radius: 8px;
+background-color: white;
+margin: 23px 48px 0;
+display: flex;
+overflow: hidden;
+box-shadow: 0px 25px 30px -20px rgba(0, 0, 0, 0.1), 0px 0px 4rem 0 rgba(0, 0, 0, 0.09);
+}
+
+.leftGradient {
+	width: 8px;
+	background-image: linear-gradient(2deg, #009efd, #2af598);
+}
+
+.text {
+	align-self: center;
+	margin: 10px 25px;
+	font-family: Circular;
+  font-size: 20px;
+  letter-spacing: 0.3px;
+  text-align: center;
+  color: #212121;
+}

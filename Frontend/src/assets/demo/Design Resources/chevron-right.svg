@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="20px" viewBox="0 0 11 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="iPhone-7-Plus-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-379.000000, -118.000000)" opacity="0.806838768">
+        <g id="Folders-Copy-4" transform="translate(11.000000, 83.000000)" fill="#BABABA">
+            <g id="Data-Structure">
+                <path d="M378.602708,45.9941616 L370.190981,54.6148286 C369.940247,54.8720693 369.617042,55 369.294161,55 C368.954457,55 368.6154,54.8582762 368.36143,54.5765528 C367.865785,54.0275888 367.881962,53.1544876 368.397342,52.626558 L375.838808,45.0000263 L368.397342,37.3734946 C367.881962,36.845565 367.865785,35.9724638 368.36143,35.4234998 C368.856428,34.8741909 369.675601,34.8569495 370.190981,35.385224 L378.602708,44.005891 C378.856677,44.2658903 379,44.6248549 379,45.0000263 C379,45.3751977 378.856677,45.7341623 378.602708,45.9941616 Z" id="chevron-right"></path>
+            </g>
+        </g>
+    </g>
+</svg>

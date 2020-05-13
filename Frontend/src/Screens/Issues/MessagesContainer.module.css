@@ -1,0 +1,49 @@
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.channel {
+  width: 550px;
+  border-radius: 10px;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.61);
+  box-shadow: 0 2px 40px 0 rgba(0, 0, 0, 0.34);
+  padding-top: 13px;
+
+}
+
+.channelheader {
+	font-family: Circular;
+	font-size: 30px;
+  	letter-spacing: 0px;
+  	text-align: left;
+  	color: #3e3e3e;
+  	padding-left: 20px;
+}
+
+.header {
+	font-family: Circular;
+  font-weight: 500;
+	font-size: 30px;
+  	letter-spacing: 0px;
+  	text-align: left;
+  	color: #3e3e3e;
+  	padding-left: 20px;
+}
+
+.feed {
+	display: flex;
+	padding-top: 13px;
+	z-index: 1;
+	flex-direction: column;
+  width: 100%;
+}
+
+.feedposition {
+	align-self: center;
+  width: 68%;
+}

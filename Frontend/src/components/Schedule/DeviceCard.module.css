@@ -1,0 +1,27 @@
+.fpImageStyle {
+	height: 56.9,
+	resizeMode: "contain",
+	marginTop: 9
+},
+
+.fpTextStyle {
+	width: 78,
+	height: 27,
+	fontFamily: "CircularStd",
+	fontSize: 21,
+	color: "#1d1d26",
+	marginTop: 2.1,
+	marginBottom: 2.3
+},
+
+.viewStyle {
+	height: 97.3,
+	width: 106.9,
+	shadowColor: "#000",
+	elevation: 50,
+	backgroundColor: "#fff",
+	justifyContent: "center",
+	alignItems: "center",
+	borderRadius: 8,
+	margin: 26.7
+}

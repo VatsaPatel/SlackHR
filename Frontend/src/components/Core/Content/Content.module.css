@@ -1,0 +1,18 @@
+.main {
+	backdrop-filter: blur(24.2px);
+	border-radius: 20px 0 0 0;
+  background-color: rgba(255, 255, 255, 0.92);
+	grid-area: content;
+	display: flex;
+}
+
+.main::before{
+	background-color: rgba(255, 255, 255, 0.60);
+}
+
+.coverUp {
+	backdrop-filter: blur(25.4px);
+	background-color: rgba(255, 255, 255, 0.66);
+	height: 50px;
+	width: 50px;
+}

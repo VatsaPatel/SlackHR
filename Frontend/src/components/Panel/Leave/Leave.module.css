@@ -1,0 +1,59 @@
+.content {
+	box-shadow: 0 2px 70px 0 rgba(159, 159, 159, 0.24);
+	padding: 10px 0px 10px 15px;
+	margin-top: 10px;
+	border-radius: 8px;
+  background-color: #ffffff;
+}
+
+.notification {
+	display: flex;
+}
+
+.actionStyle {
+	font-family: Circular;
+	top: 4px;
+	position: relative;
+	font-size: 20px;
+  line-height: 24px;
+	letter-spacing: 0.6px;
+	text-align: left;
+	color: #5e5b5b;
+}
+
+.profileNameStyle {
+	margin-left: 20px;
+	font-family: Circular;
+	font-size: 14px;
+	letter-spacing: 0.2px;
+	text-align: left;
+	color: #474747;
+}
+
+.channelNameStyle {
+	margin-left: 20px;
+	font-family: Avenir;
+	font-size: 14px;
+	font-weight: 500;
+	letter-spacing: 0.2px;
+	text-align: left;
+	color: #716d73;
+}
+
+.by {
+	margin-left: 3px;
+	margin-right: 2px;
+	font-family: Circular;
+	font-size: 14px;
+	letter-spacing: 0.2px;
+	text-align: left;
+	color: #5d6c86;
+}
+
+.for {
+	font-family: Circular;
+	font-size: 14px;
+	letter-spacing: 0.2px;
+	text-align: left;
+	color: #5d6c86;	
+}

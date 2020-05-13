@@ -1,0 +1,70 @@
+.header {
+	display: flex;
+	padding: 15px 15px;
+}
+
+.content {
+	display: flex;
+	margin-top: -8px;
+	flex-direction: column;
+}
+
+.profile_image {
+	height: 32px;
+	border-radius: 30px;
+	align-self: center;
+}
+
+.actionStyle {
+	font-family: Circular;
+	top: 4px;
+	position: relative;
+	font-size: 20px;
+  line-height: 24px;
+	letter-spacing: 0.6px;
+	text-align: left;
+	color: #5e5b5b;
+}
+
+.profileNameStyle {
+	font-family: Circular;
+	font-size: 14px;
+	letter-spacing: 0.2px;
+	text-align: left;
+	color: #474747;
+}
+
+.channelNameStyle {
+	font-family: Circular;
+	font-size: 12px;
+	letter-spacing: 0.2px;
+	text-align: left;
+	color: #474747;
+}
+
+.rightContainer {
+	align-self: center;
+	display: flex;
+	margin-left: auto;
+	margin-right: 13px;
+}
+
+.dueStyle {
+	font-family: Circular;
+  font-size: 16px;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #383638;
+	margin-right: -18px;
+	margin-top: 1px;
+}
+
+.threeDots {
+	height: 20px;
+}
+
+.Line {
+  width: 531px;
+  align-self: center;
+  border: solid 1px rgba(151, 151, 151, 0.3);
+}

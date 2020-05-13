@@ -1,0 +1,66 @@
+.footer {
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	align-self: flex-start;
+	padding: 15px 5px 1px;
+}
+
+.leftButton {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 31.7px;
+	border-radius: 14px;
+	background-color: transparent;
+	border: 1px solid transparent;
+}
+
+.leftButton:hover {
+	background-color: #eaeaea;
+}
+
+.replyStyle {
+	margin-left: 5px;
+	position: relative;
+	top: 1px;
+	font-family: Circular;
+	font-size: 16.2px;
+	letter-spacing: 0.5px;
+	color: #1016ea;
+}
+
+.replyIcon {
+	height: 18px;
+}
+
+/*.heart {
+    position: absolute;
+    transform: translate(-50px,-25px);
+    height: 70px;
+    width: 70px;
+    background-size: auto 100%;
+    background-image: url(./../../../assets/icons/web_heart_animation.png);
+}*/
+.heartcontainer {
+	width: 60px;
+	margin-right: -35px;
+	margin-top: -10px;
+}
+
+.heart {
+ 	position: absolute;
+    transform: translate(-50px,-25px);
+    height: 70px;
+    width: 70px;
+	background: url("https://cssanimation.rocks/images/posts/steps/heart.png") no-repeat;
+	background-position: 0px 0;
+	cursor: pointer;
+	transition: background-position 1s steps(28);
+	transition-duration: 0s;
+  
+  &.is-active {
+    transition-duration: 1s;
+    background-position: -2800px 0;
+  }
+}

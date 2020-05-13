@@ -1,0 +1,22 @@
+.container {
+	margin-top: 14px;
+	display: flex;
+	flex-direction: column;
+}
+
+.text {
+	margin: 10px 22px;
+	font-family: Avenir;
+ font-size: 19px;
+ letter-spacing: 0.6px;
+ color: #575555;
+}
+
+.pollText {
+	margin: 10px 22px;
+	font-family: Circular;
+  font-size: 20px;
+  letter-spacing: 0.3px;
+  text-align: center;
+  color: #212121;
+}

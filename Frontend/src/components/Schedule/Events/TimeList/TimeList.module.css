@@ -1,0 +1,29 @@
+.Container {
+	margin: 48px 0 0 30px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.timesection {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-bottom: 12px;
+}
+
+.hour {
+	font-family: Avenir;
+	font-size: 36px;
+	letter-spacing: 0.4px;
+	color: #0e0e0e;
+}
+
+.ampm {
+	position: relative;
+	top: -12px;
+	font-family: Avenir;
+	font-size: 14.9px;
+	letter-spacing: 0.4px;
+	color: #35353d;
+}

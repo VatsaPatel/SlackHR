@@ -1,0 +1,87 @@
+.Sidebar {
+	backdrop-filter: blur(25.4px);
+	background-color: rgba(255, 255, 255, 0.66);
+	grid-area: Sidebar;
+	z-index: 10;
+}
+
+.profile_container {
+	display: flex;
+	margin-top: 50px;
+	flex-direction: column;
+}
+
+.profile_image {
+	height: 90px;
+	border-radius: 100px;
+	margin-right: 10px;
+	align-self: center;
+}
+
+.profile_name_container {
+	flex-direction: row;
+}
+
+.profile_name {
+	font-family: Avenir;
+	align-self: center;
+	margin-top: 10px;
+	font-size: 19.2px;
+	font-weight: 500;
+	letter-spacing: 0.3px;
+	color: #434243;
+}
+
+.Navbar {
+	list-style-type: none;
+	margin-top: 40px;
+	padding: 0;
+}
+
+.Navbar li a {
+	display: block;
+	text-decoration: none;
+	height: 52px;
+	display: flex;
+	padding-left: 40px;
+	color: #504e4e;
+}
+
+.Navbar li a.active {
+	color: #0067ff;
+	backdrop-filter: blur(24.2px);
+	background-color: rgba(255, 255, 255, 0.92);
+}
+
+.active {
+	color: #0067ff;
+	backdrop-filter: blur(24.2px);
+	background-color: rgba(255, 255, 255, 0.92);
+}
+
+.Navbar li a:hover:not(.active) {
+	backdrop-filter: blur(25.4px);
+	background-color: rgba(255, 255, 255, 0.64);
+}
+
+.IconStyle {
+	font-size: 21px !important;
+	margin-right: 19px;
+	align-self: center;
+}
+
+.title {
+	font-size: 20.7px;
+	letter-spacing: 0.6px;
+	text-align: left;
+	align-self: center;
+	font-family: Circular;
+	margin-top: 5px;
+}
+
+.line {
+	width: 157px;
+	opacity: 0.31;
+	margin-left: 31px;
+	border: solid 0.5px rgba(74, 74, 74, 0.35);
+}

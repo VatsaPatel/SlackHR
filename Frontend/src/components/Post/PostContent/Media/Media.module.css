@@ -1,0 +1,31 @@
+.media {
+	display: flex;
+	padding: 15px 15px;
+	background-color: #ffffff;
+	box-shadow: 0 1px 30px 0 rgba(125, 125, 125, 0.16);
+	margin: 20px 25px 0px 25px;
+}
+
+.profile_image {
+	height: 56px;
+	align-self:  center;
+	margin: -30px 0px -30px -15px;
+}
+
+.actionStyle {
+	font-family: Circular;
+	position: relative;
+	font-size: 18px;
+  line-height: 24px;
+	letter-spacing: 0.6px;
+	text-align: left;
+	color: #5e5b5b;
+	padding: 1px 10px;
+}
+
+.rightContainer {
+	align-self: center;
+	display: flex;
+	margin-left: auto;
+	margin-right: 13px;
+}

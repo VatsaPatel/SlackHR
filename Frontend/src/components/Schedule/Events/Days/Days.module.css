@@ -1,0 +1,6 @@
+.container {
+	display: flex;
+	flex-direction: row;
+	flex: 1;
+	margin: 0 30px 0 20px;
+}

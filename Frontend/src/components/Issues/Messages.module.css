@@ -1,0 +1,49 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.cardContaner {
+  display: flex;
+}
+
+.PanelContaner {
+  margin-top: 44px;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.viewAllBtn {
+  padding: 6px 26px;
+  font-size: 15.2px;
+}
+
+.scont {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.search {
+  width: 124px;
+  height: 34px;
+  border-radius: 12px;
+  border: none;
+  transition: all 0.5s;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0.3px;
+  color: #4a4a4a;
+  font-family: Circular;
+  background-color: rgba(232, 233, 239, 0.71);
+  padding-left: 42px;
+}
+
+.search_icon {
+    position: relative;
+    top: 8px;
+    right: -30px;
+    font-size: 18px !important;
+    color: #4a4a4a;
+}

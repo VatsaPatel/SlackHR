@@ -1,0 +1,8 @@
+.button:active {
+  opacity: 0.5;
+}
+
+.button {
+  margin-right: 15.7px;
+  font-size: 30px;
+}

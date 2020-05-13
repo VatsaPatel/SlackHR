@@ -1,0 +1,13 @@
+.button {
+	border-radius: 20px;
+	background-color: #efeff4;
+	color: #0067ff;
+	height: 50px;
+	font-size: 18px;
+	font-weight: 500;
+	letter-spacing: 0.2px;
+	font-family: Circular;
+	position: relative;
+	border: 1px solid transparent;
+	padding: 0 30px;
+}

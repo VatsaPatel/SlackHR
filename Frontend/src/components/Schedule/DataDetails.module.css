@@ -1,0 +1,87 @@
+.timeStyle {
+	marginTop: 15;
+	alignSelf: "center";
+	flexDirection: "row";
+}
+.timecontainer {
+	flexDirection: "row";
+	alignItems: "center";
+	paddingHorizontal: 11
+}
+.hourStyle {
+	fontSize: 39;
+	fontFamily: "Gilroy-Medium";
+	color: "black"
+}
+.minuteStyle {
+	fontSize: 20;
+	letterSpacing: 20.7;
+	fontFamily: "Gilroy-Medium";
+	color: "#7a7a7a"
+}
+.apmStyle {
+	fontSize: 15;
+	top: 1;
+	fontFamily: "Gilroy-Medium";
+	color: "#7a7a7a"
+}
+.detailrowcontainer {
+	flexDirection: "row";
+	alignItems: "center"
+}
+.eventNotificationp {
+	color: "#4a4a4a";
+	fontSize: 20;
+	flexDirection: "row";
+	fontFamily: "Avenir-Medium";
+	fontWeight: "400";
+	marginTop: 1;
+	marginLeft: 26
+}
+.eventNotificationContainer {
+	marginTop: 10
+}
+.iconStyle {
+	top: 10;
+	alignItems: "center";
+	justifyContent: "center";
+	borderColor: "#a1a1a1"
+}
+.PostCardStyle {
+	borderTopLeftRadius: 0;
+	borderTopRightRadius: 0;
+	borderBottomLeftRadius: 11;
+	borderBottomRightRadius: 11;
+	marginTop: 0;
+	marginLeft: 30;
+	marginRight: 30;
+	elevation: 25;
+	zIndex: 2
+}
+.iconDescContainer {
+	flexDirection: "column";
+	alignItems: "center";
+	justifyContent: "center";
+	marginLeft: 50
+}
+.iconpStyle {
+	marginBottom: 12;
+	marginTop: 5;
+	marginLeft: 4;
+	top: 5;
+	fontSize: 13;
+	fontFamily: "Circular-Book";
+	color: "#a1a1a1"
+}
+.line {
+	borderBottomColor: "#ededed";
+	borderBottomWidth: 1.3;
+	marginHorizontal: 30;
+	position: "relative"
+}
+.image {
+	top: 10;
+	height: 28;
+	width: 28;
+	borderRadius: 40
+}

@@ -1,0 +1,13 @@
+.button {
+	height: 51.7px;
+	border-radius: 100px;
+	background-image: linear-gradient(260deg, #7619f2, #1016ea);
+	color: white;
+	font-size: 18px;
+	letter-spacing: 0.2px;
+	font-family: Circular;
+	padding: 15px 30px;
+	position: relative;
+	border: 1px solid transparent;
+	box-shadow: 0 0.9rem 2rem -1rem #4801ff;
+}

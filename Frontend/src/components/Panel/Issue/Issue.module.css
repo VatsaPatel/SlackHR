@@ -1,0 +1,16 @@
+.actionStyle {
+	font-family: Circular;
+	position: relative;
+	font-size: 20px;
+	letter-spacing: 0.6px;
+	text-align: left;
+	color: #474747;
+}
+
+.channelNameStyle {
+	font-family: Circular;
+	font-size: 14px;
+	letter-spacing: 0.2px;
+	text-align: left;
+	color: #474747;
+}

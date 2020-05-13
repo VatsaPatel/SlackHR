@@ -1,0 +1,14 @@
+.Container {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.visibleMonthAndYear{
+  font-size: 20.7px;
+    letter-spacing: 0.6px;
+    text-align: left;
+    align-self: center;
+    font-family: Circular;
+    color: #504e4e;
+}

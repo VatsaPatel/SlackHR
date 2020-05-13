@@ -1,0 +1,24 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	margin-top: 10px;
+	padding: 5px 5px;
+}
+
+.header {
+	display: flex;
+	flex-direction: row;
+}
+
+.search_icon {
+	align-self: center;
+}
+
+.headertext {
+	margin-left: 5px;
+	font-family: Circular;
+	font-size: 22px;
+	letter-spacing: 0.3px;
+	text-align: left;
+	color: #353535;
+}

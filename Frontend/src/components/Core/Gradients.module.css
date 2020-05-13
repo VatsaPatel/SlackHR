@@ -1,0 +1,23 @@
+.purple {
+  background-image: linear-gradient(232deg, #ac32e4, #7918f2 48%, #4801ff);
+}
+
+.red {
+  background-image: linear-gradient(74deg, #fe5196, #f77062);
+}
+
+.bluegreen {
+  background-image: linear-gradient(53deg, #009efd, #2af598);
+}
+
+.blue {
+  background-image: linear-gradient(65deg, #00ece6, #007adf);
+}
+
+.yellow {
+  background-image: linear-gradient(53deg, #d39b4e, #ffe369);
+}
+
+.green {
+  background-image: linear-gradient(53deg, #3be7bc, #59e5d9);
+}

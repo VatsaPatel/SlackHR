@@ -1,0 +1,32 @@
+.header {
+	width: 100%;
+	display: flex;
+
+}
+
+.profileNameStyle {
+	font-family: Circular;
+	letter-spacing: 0.2px;
+	text-align: left;
+	color: #353535;
+}
+
+.rightContainer {
+	text-align: right;
+	align-self: center;
+	display: flex;
+	margin-left: auto;
+	margin-right: 10px;
+}
+
+.timeStyle {
+	font-family: Circular;
+	font-size: 14px;
+	letter-spacing: 0.2px;
+	text-align: left;
+	color: #a8a3a3;
+}
+
+.search_icon {
+	align-self: center;
+}

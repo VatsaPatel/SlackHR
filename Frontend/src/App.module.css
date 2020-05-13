@@ -1,0 +1,91 @@
+@font-face {
+	font-family: "Avenir";
+	src: url("./assets/fonts/hinted-Avenir-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Avenir";
+	src: url("./assets/fonts/hinted-Avenir-Light.woff") format("woff");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Avenir";
+	src: url("./assets/fonts/hinted-Avenir-Roman.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Circular';
+    src: local('Circular Std Book'), local('Circular-Std-Book'),
+        url('./assets/fonts/CircularStd-Book.woff2') format('woff2'),
+        url('./assets/fonts/CircularStd-Book.woff') format('woff'),
+        url('./assets/fonts/CircularStd-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@font-face {
+	font-family: "Circular";
+	src: url("./assets/fonts/hinted-Circular-black.woff") format("woff");
+	font-weight: 900;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: "Circular";
+	src: url("./assets/fonts/hinted-Circular-Bold.woff") format("woff");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'Circular';
+    src: local('Circular Std Medium'), local('Circular-Std-Medium'),
+        url('./assets/fonts/CircularStd-Medium.woff2') format('woff2'),
+        url('./assets/fonts/CircularStd-Medium.woff') format('woff'),
+        url('./assets/fonts/CircularStd-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
+
+@font-face {
+	font-family: "Gilroy";
+	src: url("./assets/fonts/Gilroy-Regular.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Gilroy";
+	src: url("./assets/fonts/Gilroy-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+}
+
+body{
+	transition: all 0.5s;
+}
+
+.root {
+	display: grid;
+	min-height: 100vh;
+	min-width: 100%;
+	background-image: url(./assets/demo/back.jpg);
+	grid-template-columns: 240px 1fr;
+	grid-template-rows: 48px 1fr;
+	grid-template-areas:
+		"Header   Header"
+		"Sidebar  content";
+}
+.coverUp {
+	backdrop-filter: blur(25.4px);
+	background-color: rgba(255, 255, 255, 0.66);
+	height: 50px;
+	width: 50px;
+}

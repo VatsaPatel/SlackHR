@@ -1,0 +1,27 @@
+.button:hover {
+  background-color: #cfd9ec;
+}
+
+.button {
+  object-fit: contain;
+  box-shadow: 0 2px 10px 0 rgba(222, 222, 222, 0.25);
+  height: 30px;
+  border-radius: 12px;
+  border: solid 2px transparent;
+  background-color: #ffffff;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: Circular;
+  font-size: 18px;
+  letter-spacing: -0.4px;
+  text-align: left;
+  color: #0067ff;
+  margin-right: 16px;
+    top: -3px;
+    position: relative;
+}
+
+.plus {
+	color: #0067ff;
+	border: solid 3px transparent;
+}

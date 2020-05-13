@@ -1,0 +1,92 @@
+.container {
+	
+}
+
+.Header {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	width: 500px;
+}
+
+.content {
+	display: flex;
+	flex-direction: row;
+}
+
+.secondhalf {
+	display: flex;
+}
+
+.profile_image {
+	align-self: center;
+}
+
+.logo {
+	height: 34px;
+	margin-left: 48px;
+	margin-top: 6px;
+}
+
+.emailbox {
+	margin: 0px 20px;
+	align-self: center;
+	transition: all 0.5s;
+	border-bottom: 1px solid #8d8d8d;
+}
+
+.footer {
+	padding: 0px 20px;
+}
+
+.leftButton {
+	    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    height: 31.7px;
+    float: left;
+    display: inline-block;
+    border-radius: 14px;
+    background-color: transparent;
+    border: 1px solid transparent;
+}
+
+.leftButton:hover {
+	background-color: green;
+}
+
+.replyStyle {
+	margin-left: 5px;
+	position: relative;
+	top: 1px;
+	font-family: Circular;
+	font-size: 14px;
+	font-weight: 400;
+	letter-spacing: 0.5px;
+	color: #8d8d8d;
+}
+
+.footer{
+	padding-top: 40px; 
+	text-align: center;
+}
+
+.wardiv {
+	padding: 0px 20px 50px 20px;
+}
+
+.warning {
+	    animation-delay: 0.7s;
+    animation-duration: 0.2s;
+    color: #1016EA;
+    font-family: Circular;
+    font-size: 18px;
+}
+
+.war1, .war2 {
+	    animation-delay: 0.7s;
+    animation-duration: 0.2s;
+    font-family: Circular;
+    font-size: 14px;
+    color: #8d8d8d;	
+}

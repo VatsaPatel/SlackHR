@@ -1,0 +1,46 @@
+.searchbox {
+	align-self: left;
+	display: flex;
+	transition: all 0.5s;
+}
+
+input {
+	outline: none;
+}
+
+input[type="search"] {
+	width: 360px;
+	height: 63px;
+	background-color: #f6f6f6;
+	border-radius: 16px;
+	border: 1px solid #ffffff00 !important;
+	transition: all 1.5s;
+	font-size: 22px;
+	letter-spacing: 0.4px;
+	text-align: left;
+	color: #7b7878;
+	font-family: Circular;
+	padding-left: 21px;
+}
+
+input[type="search"]::placeholder {
+	color: #4a4a4a;
+	position: relative;
+	top: 2px;
+}
+
+input[type="search"]:focus + .text {
+	transform: translate3d(-34px, -20px, 0);
+	font-size: 16px;
+}
+
+.text {
+	font-size: 22px;
+	letter-spacing: 0.4px;
+	text-align: left;
+	color: #7b7878;
+	font-family: Circular;
+	position: relative;
+	top: 20px;
+	left: -72%;
+}

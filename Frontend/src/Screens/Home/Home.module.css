@@ -1,0 +1,16 @@
+.container {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+}
+
+.feed{
+  width: 575px;
+  margin-top: 50px;
+  margin-left: 10%;
+  margin-right: 5%;
+}
+
+.panel {
+	width: 500px;
+}

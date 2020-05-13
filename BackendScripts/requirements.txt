@@ -1,0 +1,32 @@
+
+Python 3.7.4
+
+pip install Flask
+Flask 1.1.2
+
+Werkzeug 1.0.1
+
+pip install SQLAlchemy
+Name: SQLAlchemy
+Version: 1.3.16
+
+pip install requests
+Name: requests
+Version: 2.23.0
+
+pip install pandas
+Name: pandas
+Version: 1.0.3
+
+pip install numpy
+Name: numpy
+Version: 1.18.4
+
+pip install sklearn
+
+pip install SlackClient
+Name: slackclient
+Version: 2.0
+
+pip install flask-cors
+
